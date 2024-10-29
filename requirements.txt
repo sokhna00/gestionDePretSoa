@@ -1,0 +1,6 @@
+spyne~=2.14.0
+openai~=0.28.0
+python-dotenv~=1.0.1
+requests~=2.32.3
+textract~=1.6.5
+flask~=3.0.3

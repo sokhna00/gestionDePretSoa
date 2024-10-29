@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.env
+
+# Virtual environment
+venv/
+env/
+.env/
+
+.env
+# Compiled files
+*.pyc
+*.pyo
+
+# Log files
+*.log
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Miscellaneous
+*.DS_Store
+Thumbs.db

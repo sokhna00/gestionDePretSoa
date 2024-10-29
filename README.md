@@ -35,8 +35,9 @@ Pour exécuter cette application localement, suivez les étapes ci-dessous :
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/nom-du-depot.git
-   cd nom-du-depot
+   git clone  https://github.com/sokhna00/gestionDePretSoa.git
+
+   cd test
    
 2. Créez un environnement virtuel :
 

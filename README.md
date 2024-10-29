@@ -2,6 +2,12 @@
 
 Cette application permet aux utilisateurs de soumettre des demandes de prêt immobilier via un fichier. Les fichiers peuvent être au format PDF, DOCX ou TXT. L'application traite les demandes et fournit des résultats sur la solvabilité, l'évaluation de la propriété et la décision finale.
 
+
+## Démonstration
+
+![Vidéo de démo](demo/demo_soa.gif)
+
+
 ## Table des Matières
 
 - [Fonctionnalités](#fonctionnalités)
